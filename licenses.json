@@ -1,0 +1,19 @@
+{
+  "licenses": [
+    {
+      "placeId": 1234567890,
+      "creatorId": 111111111,
+      "status": "active"
+    },
+    {
+      "placeId": 1234567890,
+      "creatorId": 222222222,
+      "status": "active"
+    },
+    {
+      "placeId": 1234567890,
+      "creatorId": 333333333,
+      "status": "active"
+    }
+  ]
+}
